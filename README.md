@@ -16,6 +16,7 @@
 - 회원가입,로그인,회원정보 수정, 회원 탈퇴, 로그아웃, 
 - 식당검색, 장바구니 등록, 주문 및 결제
 - 리뷰 작성 및 등록, 점주 주문 확인, 점주 주문 페이지에서 리뷰 확인, 예상 준비시간 체크 및 배송 완료 확인
+- 
 ![2](https://user-images.githubusercontent.com/107861610/194742655-f691ad5d-b9e1-458e-a329-adb57a9cb275.jpg)
 ![4](https://user-images.githubusercontent.com/107861610/194742662-f2ede947-740b-4a53-9203-5485cbce5d7d.jpg)
 
